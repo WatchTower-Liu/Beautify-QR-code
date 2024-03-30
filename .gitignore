@@ -1,0 +1,3 @@
+/models/control_net/*
+/models/stable_diffusion/*
+/src/__pycache__
